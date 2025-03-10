@@ -1,1 +1,13 @@
-# Helpnei
+# Backlog do Produto
+
+| **Requisitos**                         | **User Stories**                                                                                                             | **Prioridade** | **Estimativa** | **Sprint** |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------|-----------------|------------|
+| Responsividade                         | Eu como cliente, preciso que o site seja responsivo para dispositivos móveis.                                                | Alta           |                 | 1          |
+| Exibir cards das empresas na página inicial | Como usuário do site, eu quero visualizar os cards de diferentes empresas na página inicial, para que eu possa acessar rapidamente o dashboard da empresa desejada. | Alta           |                 | 1          |
+| Identificação visual das empresas      | Como um usuário do site, eu quero que cada card exiba a imagem da empresa correspondente, para que eu possa identificar visualmente qual empresa estou acessando. | Média          |                 | 1          |
+| Navegação para o dashboard             | Como usuário do site, eu quero clicar em um card de empresa para que eu seja redirecionado ao dashboard específico daquela empresa. | Alta           |                 | 1          |
+| Distribuição geográfica                | Como usuário do site, eu quero visualizar um gráfico interativo com as cidades impactadas pela empresa para que eu possa entender melhor sua distribuição geográfica. | Alta           |                 | 2          |
+| Monitoramento de crescimento           | Como um administrador da empresa, eu quero visualizar o número de usuários que visualizaram a loja, para que eu possa analisar o alcance e engajamento do público. | Média          |                 | 3          |
+| Análise de alcance                     | Como um administrador da empresa, eu quero visualizar o número de usuários que visualizaram a loja, para que eu possa analisar o alcance e engajamento do público. | Média          |                 | 3          |
+| Análise de conversão                   | Como administrador da empresa, eu quero visualizar o número de usuários que clicaram na loja, para que eu possa entender a taxa de conversão de visitantes em clientes. | Média          |                 | 3          |
+| Acompanhamento de vendas               | Como um administrador da empresa, eu quero visualizar o volume de transações diárias, para que eu possa acompanhar o desempenho das vendas em tempo real. | Alta           |                 | 3          |
